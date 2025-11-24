@@ -9,9 +9,7 @@ OS : UBUNTU 20.04.2LTS
 
  Database: SQLite3
 
-## Project Installtion Guide
 
- https://youtu.be/vedBJpH414g
  
 ## Required library installation
 ```python
