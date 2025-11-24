@@ -3,8 +3,6 @@ Automatic Attendance using face recognition is a software that provide automatic
 ## Tested On
 Python Version : 3.8.5
 
-OS : UBUNTU 20.04.2LTS
-
 ## Database Used
 
  Database: SQLite3
